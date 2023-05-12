@@ -1,0 +1,35 @@
+{
+  "name": "fake-profile-generator",
+  "version": "1.0.0",
+  "description": "This will generate fake person profile",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechAsif/fake-profile-generator.git"
+  },
+  "keywords": [
+    "fake",
+    "person",
+    "profile",
+    "fake",
+    "generator"
+  ],
+  "author": "Md. Asif Pervez sarker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TechAsif/fake-profile-generator/issues"
+  },
+  "homepage": "https://github.com/TechAsif/fake-profile-generator#readme",
+  "engines": {
+    "npm": "6.14.13",
+    "node": "14.17.3"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
